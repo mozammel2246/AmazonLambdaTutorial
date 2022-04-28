@@ -1,0 +1,17 @@
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\FirstLambdaProject.deps.json
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\FirstLambdaProject.runtimeconfig.json
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\FirstLambdaProject.pdb
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.csproj.AssemblyReference.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.AssemblyInfoInputs.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.AssemblyInfo.cs
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.csproj.CoreCompileInputs.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.csproj.CopyComplete
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\refint\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.pdb
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\FirstLambdaProject.genruntimeconfig.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Debug\net6.0\ref\FirstLambdaProject.dll

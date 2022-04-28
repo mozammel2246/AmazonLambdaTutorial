@@ -1,0 +1,17 @@
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\FirstLambdaProject.deps.json
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\FirstLambdaProject.runtimeconfig.json
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\FirstLambdaProject.pdb
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.csproj.AssemblyReference.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.AssemblyInfoInputs.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.AssemblyInfo.cs
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.csproj.CoreCompileInputs.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.csproj.CopyComplete
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\refint\FirstLambdaProject.dll
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.pdb
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\FirstLambdaProject.genruntimeconfig.cache
+C:\Users\ru_ma\Desktop\DevOps 2201\FirstLambdaProject\FirstLambdaProject\obj\Release\net6.0\linux-x64\ref\FirstLambdaProject.dll
