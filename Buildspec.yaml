@@ -27,4 +27,4 @@ phases:
       - dotnet new -i Amazon.Lambda.Templates::*
       - dotnet tool install -g Amazon.Lambda.Tools
       - dotnet tool update -g Amazon.Lambda.Tools
-      - dotnet lambda deploy-function "FirstLambdaProject" --function-role "arn:aws:iam::303352574757:role/service-role/codebuild-Lambda-function-deployment-service-role" --region "us-east-1"
+      - dotnet lambda deploy-function "FirstLambdaProject" --function-role "arn:aws:iam::303352574757:role/service-role/codebuild-lambda-project-deployment-.net-service-role" --region "us-east-1"

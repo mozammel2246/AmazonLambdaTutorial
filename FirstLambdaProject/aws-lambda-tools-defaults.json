@@ -15,7 +15,7 @@
     "framework": "net6.0",
     "function-name": "FirstLambdaFunction",
     "package-type": "Zip",
-    "function-role": "arn:aws:iam::303352574757:role/service-role/codebuild-Lambda-function-deployment-service-role",
+    "function-role": "arn:aws:iam::303352574757:role/service-role/codebuild-lambda-project-deployment-.net-service-role",
     "function-architecture": "x86_64",
     "tracing-mode": "PassThrough",
     "environment-variables": "",
